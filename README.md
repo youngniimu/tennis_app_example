@@ -1,6 +1,6 @@
-# zenniz_serveToTarget
+# serveToTarget
 
-A new Flutter project.
+A small Flutter project I made in five days as a demo for a company with no earlier experience in Flutter/Dart
 
 ## Getting Started
 
